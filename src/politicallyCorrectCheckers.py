@@ -1,5 +1,12 @@
 """A simple program to play Checkers with two people from the same computer.
 
+#
+# VERSION INFORMATION
+#
+# DelphicVen - 02/11/2019 - Downloaded Code 
+# DelphicVen - 02/11/2019 - Modified Code to make it politically correct
+#
+#
 I made it to play out checkers problems I found."""
 
 from Tkinter import *
